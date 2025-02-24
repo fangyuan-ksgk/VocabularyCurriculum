@@ -1,8 +1,33 @@
-<<<<<<< HEAD
-# VocabularyCurriculum
-Scale better with vocabulary curriculum
-=======
-Scale better with vocabulary curriculum 
+<div align="center">
+<h2 align="center">
+   <b>Scale better with vocabulary curriculum</b>
+</h2>
+
+<div>
+  <a target="_blank" href="https://scholar.google.com.sg/citations?user=GqZfs_IAAAAJ&hl=en">Fangyuan&nbsp;Yu</a><sup>1</sup>
+</div>
+
+<br />
+<sup>1</sup>Temus&nbsp;&nbsp;&nbsp;
+<br />
+<div align="center">
+    <a href="xxx" target="_blank">
+</div>
+</div>
+
+![Scale better with vocabulary curriculum](assets/better-scale-vocab-curriculum.png)
+
+Modern language model pre-training relies on a static
+vocabulary, fixed before training and detached from the model’s learning dynam-
+ics—unlike human language acquisition. We introduce a vocabulary curriculum,
+an adaptive approach that enhances pre-training efficiency and improves bits per
+character (BPC) by a factor that scales log-linearly with vocabulary size. Our
+method alternates between vocabulary adaptation and language model optimiza-
+tion, allowing the model to learn representations across multiple token granularities,
+leading to significantly improved compression. 
+
+## :new: Updates
+- [08/2024] [arXiv Preprint] xxx
 
 
 arXiv: 
@@ -42,5 +67,3 @@ Note that we include circular training which increase and decrease vocabulary si
 ```
 bash run_compute_match.sh
 ```
-
->>>>>>> f12ae99 (Initial commit)
