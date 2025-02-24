@@ -15,7 +15,7 @@
 </div>
 </div>
 
-![Scale better with vocabulary curriculum](assets/better-scale-vocab-curriculum.png)
+![better-scale-vocab-curriculum-1](https://github.com/user-attachments/assets/85616d2b-c882-4aa8-a36d-4f988011ed59)
 
 Modern language model pre-training relies on a static
 vocabulary, fixed before training and detached from the model’s learning dynam-
@@ -26,11 +26,11 @@ method alternates between vocabulary adaptation and language model optimiza-
 tion, allowing the model to learn representations across multiple token granularities,
 leading to significantly improved compression. 
 
+![scale-better-incre-vocab](https://github.com/user-attachments/assets/7ef0598c-adeb-428b-b357-f657322c0dfa)
+
+
 ## :new: Updates
-- [08/2024] [arXiv Preprint] xxx
-
-
-arXiv: 
+- [02/2025] [arXiv Preprint] xxx
 
 Environment setup: 
 ```
