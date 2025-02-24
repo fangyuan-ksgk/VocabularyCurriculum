@@ -67,3 +67,7 @@ Note that we include circular training which increase and decrease vocabulary si
 ```
 bash run_compute_match.sh
 ```
+
+This codebase heavily borrows from the following repos: 
+- nano-gpt: https://github.com/karpathy/nanoGPT
+- minBPE: https://github.com/jxnl/minbpe
