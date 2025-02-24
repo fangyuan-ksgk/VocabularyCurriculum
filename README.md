@@ -26,6 +26,9 @@ method alternates between vocabulary adaptation and language model optimiza-
 tion, allowing the model to learn representations across multiple token granularities,
 leading to significantly improved compression. 
 
+![scale-better-incre-vocab](https://github.com/user-attachments/assets/7ef0598c-adeb-428b-b357-f657322c0dfa)
+
+
 ## :new: Updates
 - [08/2024] [arXiv Preprint] xxx
 
