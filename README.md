@@ -15,7 +15,7 @@
 </div>
 </div>
 
-![Scale better with vocabulary curriculum](assets/better-scale-vocab-curriculum.png)
+![better-scale-vocab-curriculum-1](https://github.com/user-attachments/assets/85616d2b-c882-4aa8-a36d-4f988011ed59)
 
 Modern language model pre-training relies on a static
 vocabulary, fixed before training and detached from the model’s learning dynam-
