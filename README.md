@@ -30,10 +30,7 @@ leading to significantly improved compression.
 
 
 ## :new: Updates
-- [08/2024] [arXiv Preprint] xxx
-
-
-arXiv: 
+- [02/2025] [arXiv Preprint] xxx
 
 Environment setup: 
 ```
