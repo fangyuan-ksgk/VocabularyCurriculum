@@ -31,6 +31,7 @@ leading to significantly improved compression.
 
 ## :new: Updates
 - [02/2025] [arXiv Preprint] https://arxiv.org/pdf/2502.17910
+
 Environment setup: 
 ```
 bash set.sh
